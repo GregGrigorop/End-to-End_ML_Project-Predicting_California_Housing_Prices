@@ -1,4 +1,4 @@
-# Predicting_Housing_Prices
+# Predicting_Housing_Prices_in_California
 
 This repo presents an **End-to-End Regression Machine Learning project** for predicting housing prices in California. It is my own implementation of a project from the book 
 "Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow" and the goal was to build a housing prices model for California using census data of the state. This 
